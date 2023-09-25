@@ -2,7 +2,6 @@
 - 👀 I’m interested in scripting, system engineering, system reliability, and system automation
 - 🌱 I’m currently learning Go and improving my understanding of Terraform, Ansible, and Python
 - 💞️ I’m looking to collaborate on IaC and automation projects
-- 📫 @cozy_viking on twitter
 
 <!---
 cozyviking/cozyviking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
